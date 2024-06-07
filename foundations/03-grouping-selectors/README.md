@@ -13,6 +13,6 @@ This will help you further practice adding classes and using class selectors, so
 
 
 ### Self Check
-- Does each element have a unique class name?
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+- Does each element have a unique class name? YES (.btn-1 and .btn-2)
+- Did you use the grouping selector for styles that both elements share? YES (.btn-1, .btn2 {...})
+- Did you make separate rules for the styles unique to each element? YES (for .btn-1 and .btn-2)
